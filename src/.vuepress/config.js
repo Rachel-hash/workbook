@@ -3,7 +3,7 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-const GITHUB_USERNAME = "Rachel-hash" // "rachel-hash"
+const GITHUB_USERNAME = "rachel-hash" // "rachel-hash"
 
 
 module.exports = config({
