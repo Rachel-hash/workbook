@@ -3,7 +3,7 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-const GITHUB_USERNAME = 'REPLACE_ME' // TODO 
+const GITHUB_USERNAME = 'REPLACE_ME' // "rachel-hash"
 
 
 module.exports = config({
@@ -18,7 +18,7 @@ module.exports = config({
     ['meta', { name: 'ROBOTS', content: 'FOLLOW' }],
     ['meta', { name: 'og:image', content: 'https://bcw.blob.core.windows.net/public/img/8600856373152463' }],
     ['meta', { name: 'og:type', content: 'article' }],
-    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/blog` }],
+    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/rachel-hash` }],
     ['meta', { name: 'og:title', content: 'Learn to Code. Develop Your Future' }],
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
@@ -67,7 +67,7 @@ module.exports = config({
   },
   plugins: [
     '@vuepress/plugin-back-to-top',
-    ["@mr-hope/sitemap", { hostname: `https://${GITHUB_USERNAME}.github.io/blog` }],
+    ["@mr-hope/sitemap", { hostname: `https://${GITHUB_USERNAME}.github.io/rachel-hash` }],
   ]
 })
 
