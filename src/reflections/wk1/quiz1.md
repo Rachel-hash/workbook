@@ -15,19 +15,19 @@ This creates a new directory/folder, and names it whatever comes after 'mkdir'.
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It is the root tag in a document. It is the basis for an HTML page. 
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+HTML stands for Hypertext Markup Language.
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+CSS stands for Cascading Style Sheets.
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,25 +38,25 @@ This creates a new directory/folder, and names it whatever comes after 'mkdir'.
 ```
 <!-- enter you answer in the space below -->
 ```
-
+There are selectors, properties and values. 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+You would use font-weight: bold
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+The majority of my code belongs in the <body> tag.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul>, <ol>, and <dl>.
 ```
 
 **10.** Define the display `:flex property:`
@@ -68,5 +68,5 @@ This creates a new directory/folder, and names it whatever comes after 'mkdir'.
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+border, margin, and padding.
 ```
