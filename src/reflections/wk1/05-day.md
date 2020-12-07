@@ -1,0 +1,4 @@
+# Day 5
+# __12/04/2020__
+## Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
+This week I learned several coding shortcuts that will save me excess typing. And I learned methods for problem solving and organizing my task to make it seem not so big and overwhelming. What I'm struggling with is how to explain my code. I know what it's doing per se but I don't know the right words to use. At this point I'm both excited and nervous! I'm very excited to start JS but I'm nervous about the rest of the weeks because I only JS before taking this class! I'll be going into those weeks blind! 
